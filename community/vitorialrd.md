@@ -2,7 +2,7 @@
 
 
 ### Meu nome é Vitoria sou de São Paulo - SP,  futura desenvolvedora FullStack Jr, estou ingressando na área de tecnologia.
-### Atualmente fazendo cursos on-line e me descobrindo no mundo tech, ansiosa para conseguir uma oportunidade de ingressar em uma faculdade
+### Atualmente fazendo cursos on-line e me descobrindo no mundo tech, ansiosa para conseguir uma oportunidade de ingressar em uma faculdade.
 
 
 ## 👥 Redes Sociais
